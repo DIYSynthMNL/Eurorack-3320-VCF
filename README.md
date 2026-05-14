@@ -94,7 +94,9 @@ Procedure:
 
 ## Design references
 
-- [AS3320 datasheet](https://alfatriode.lv/eng/sc/AS3320.pdf) — definitive reference for the chip
+Local archived copies live in [`references/`](references/) so this repo stays useful if the upstream links die.
+
+- **AS3320 datasheet** — [local copy](references/AS3320-alfatriode-2023.pdf) · [upstream (alfatriode.lv)](https://alfatriode.lv/eng/sc/AS3320.pdf) — definitive reference for the chip
 - [Electric Druid AS3320 product page](https://electricdruid.net/product/as3320-vcf/)
 - [Electric Druid multimode filter notes](https://electricdruid.net/multimode-filters-part-1-reconfigurable-filters/) — the AS3320 can be wired for LPF / HPF / BPF / APF; this design is LPF only
 - Output buffer topology adapted from the Sequential Pro One synth

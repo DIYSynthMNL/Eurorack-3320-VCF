@@ -1,4 +1,6 @@
 # Eurorack-3320-VCF
+
+![AS3320 VCF assembled](photos/front.jpg)
  A low pass VCF module using the AS3320 VCF chip
 # Features
  - Cut-off frequency CV input with attenuation and level knobs
@@ -23,7 +25,7 @@ What's ready for builders today, and what's still on the TODO list:
 
 **Documentation**
 
-- [ ] Photos of the assembled module — none yet (drop in [`photos/`](photos/))
+- [x] Photos of the assembled module — see [photos/](photos/)
 - [ ] Demo video — none yet
 - [ ] Build / assembly instructions — none yet
 - [ ] Calibration / tuning notes — none yet

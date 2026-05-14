@@ -8,7 +8,7 @@
 
 What's available for builders, and what's still on the TODO list:
 
-- [x] Schematic PDF (latest Rev 0.1.5) — [3320-VCF_Schematic-Rev-0.1.5.pdf](schematic%20pdfs/3320-VCF_Schematic-Rev-0.1.5.pdf)
+- [x] Schematic PDF (latest Rev 0.1.5) — [3320-VCF_Schematic-Rev-0.1.5.pdf](Schematic%20PDFs/3320-VCF_Schematic-Rev-0.1.5.pdf)
 - [x] KiCad source files — [kicad/](kicad/)
 - [ ] Gerber files for PCB fabrication — *not yet exported — generate from kicad/ before sending to a fab*
 - [ ] Bill of materials (BOM) — *not yet exported*

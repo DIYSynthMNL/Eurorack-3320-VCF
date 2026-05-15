@@ -1961,7 +1961,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 2e7d47be-c229-4e20-b873-409cb5c1c59a)
   )
-  (text "REE = (VEE-2.7)/0.08" (at 255.0922 150.495 0)
+  (text "REE = (|VEE| - 2.7) / 0.008" (at 255.0922 150.495 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 39609aba-5752-4847-ae43-dcf6b7569a63)
   )
